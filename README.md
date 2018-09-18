@@ -1,1 +1,2 @@
 # nanogap-estimate
+Characterization of electron tunneling in gold electromigrated nanogaps. A simple curve fitting to determine reduced effective barrier heights and device widths from current voltage measurements of electromigrated gold nanogaps at cryogenic temperatures. A tunneling model characterizes nanogaps irrespective of the true potential profile between electrodes, thus defining a metric for device performance. This metric may be used to compare nanogap device performance.
